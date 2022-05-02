@@ -1,25 +1,77 @@
-*{
-    margin:0;
-    padding:0;
+* {
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
-body{
-    min-height:100vh;
-    display:grid;
-    place-items:center;
+body {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-.download-btn{
+.download-btn0 {
     background-color: DodgerBlue;
     color: white;
     padding: 1rem 2rem;
     font-size: 2rem;
     text-decoration: none;
-    border-radius:5px;
+    border-radius: 5px;
 }
 
-.download-btn:hover {
+.download-btn0:hover {
     background-color: RoyalBlue;
-  }
+}
+
+.download-btn1 {
+    background-color: DodgerBlue;
+    color: white;
+    padding: 1rem 2rem;
+    font-size: 2rem;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.download-btn1:hover {
+    background-color: RoyalBlue;
+}
+
+.download-btn2 {
+    background-color: DodgerBlue;
+    color: white;
+    padding: 1rem 2rem;
+    font-size: 2rem;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.download-btn2:hover {
+    background-color: RoyalBlue;
+}
+
+.download-btn3 {
+    background-color: DodgerBlue;
+    color: white;
+    padding: 1rem 2rem;
+    font-size: 2rem;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.download-btn3:hover {
+    background-color: RoyalBlue;
+}
+
+.download-btn4 {
+    background-color: DodgerBlue;
+    color: white;
+    padding: 1rem 2rem;
+    font-size: 2rem;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.download-btn4:hover {
+    background-color: RoyalBlue;
+}
